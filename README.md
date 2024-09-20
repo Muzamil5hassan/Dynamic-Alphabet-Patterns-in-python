@@ -1,0 +1,1 @@
+# Dynamic-Alphabet-Patterns-in-python
